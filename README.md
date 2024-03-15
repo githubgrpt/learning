@@ -1,2 +1,2 @@
 # learning
-This repo for learning Git
+This repo is for learning Git
